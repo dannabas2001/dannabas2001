@@ -51,7 +51,7 @@
 
 ### 💼 Experience
 
-- **Frontend Developer** @ AVACOM, Jun 2025 - Present
+- **Frontend Developer** @ AVACOM, Jun 2026 - Present
 - **Web UI Developer** @ Globant, Dec 2025 - Jun 2026
 - **Senior Frontend Developer** @ Inchcape Digital, Nov 2022 - Jun 2025
 - **Trainee Frontend Developer** @ Academia Geek, Mar 2022 - Jul 2022
